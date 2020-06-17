@@ -9,7 +9,6 @@ npm install
 ```
 
 This sample application is Hosted on Heroku: Application URL
-```
-https://protected-spire-31481.herokuapp.com/
-```
+[https://protected-spire-31481.herokuapp.com/]
+
 
